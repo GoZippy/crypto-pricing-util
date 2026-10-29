@@ -14,7 +14,7 @@
     "@cloudflare/vitest-pool-workers": "^0.5.2",
     "@cloudflare/workers-types": "^4.20241230.0",
     "typescript": "^5.5.2",
-    "vitest": "2.1.8",
+    "vitest": "4.1.11",
     "wrangler": "^3.60.3"
   },
   "dependencies": {
@@ -24,6 +24,6 @@
     "dprint": "^0.48.0",
     "hono": "^4.6.15",
     "openapi3-ts": "^4.4.0",
-    "zod": "^3.24.1"
+    "zod": "^4.6.7"
   }
 }
